@@ -48,3 +48,5 @@ Refer to the def extract() in python script
 
    <img width="400" alt="image" src="https://user-images.githubusercontent.com/97893144/206856713-97206caf-3b5b-40ba-9c16-0df1822e84ae.png">
 
+2. Data extracted for first 100 rows from source and destination tables and compared, results in output folder of 
+   rashmidesai09/ETL-pipeline-with-Python/Export from    SQL Server to PostgreSQL
