@@ -37,4 +37,14 @@ Refer to the def extract() in python script
    This is staging environment to pull in new data on a given interval. From here, data can be transformed and loaded the data into the presentation layer. 
    The python scripthas def load() to store data in a PostgreSQL database using Pandas.
    
-   
+## Basic Validation
+1. The number of rows in source and destination tables verified
+
+### Destination
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/97893144/206856603-edaf97a6-7a87-41f8-9ce7-3b218030af5b.png">
+
+### Source 
+
+   <img width="400" alt="image" src="https://user-images.githubusercontent.com/97893144/206856713-97206caf-3b5b-40ba-9c16-0df1822e84ae.png">
+
