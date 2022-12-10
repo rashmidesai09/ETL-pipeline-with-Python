@@ -5,7 +5,8 @@ import pandas as pd
 import os
 
 
-#get password from environmnet var
+#get password from environment variables
+#Imp : Remember to create environment variables and server name 
 pwd = os.environ['PGPASS']
 uid = os.environ['PGUID']
 #sql db details
