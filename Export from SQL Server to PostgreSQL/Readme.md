@@ -5,6 +5,8 @@
 
 An ETL pipeline is the set of processes used to move data from a source or multiple sources into a database such as a data warehouse. ETL stands for “extract, transform, load,” the three interdependent processes of data integration used to pull data from one database and move it to another. Once loaded, data can be used for reporting, analysis, and deriving actionable business insightscreate the same user in SQL Server environment to keep things consistent. 
 
+Read more about ETL vs ELT here - https://datacloudforall.blogspot.com/2022/12/etl-vs-elt.html
+
 There are many different tools and technologies we can use to build an ETL pipeline depending on the business requirement and skillset. In this project,we will use Python and specifically Pandas and SQLAlchemy to extract and load data.
 
 ## The Setup
