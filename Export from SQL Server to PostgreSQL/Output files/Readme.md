@@ -1,6 +1,6 @@
-Results obtained from the below queries have been saved in the csv files -
+## Results obtained from the below queries have been saved in the csv files -
 
-Query to fetch first 100 rows from SQL server "AdventureWorksDW2019"
+### Query to fetch first 100 rows from SQL server "AdventureWorksDW2019"
 
 /****** Script for SelectTopNRows command from SSMS  ******/
 SELECT TOP (100) [ProductKey]
@@ -41,7 +41,7 @@ SELECT TOP (100) [ProductKey]
       ,[Status]
   FROM [AdventureWorksDW2019].[dbo].[DimProduct]
 
-Query to fetch first 100 rows from Postgresql "AdventureWorksDW2019"
+### Query to fetch first 100 rows from Postgresql "AdventureWorksDW2019"
 
 SELECT * FROM public."stg_DimProduct"
 LIMIT 100
