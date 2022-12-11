@@ -1,6 +1,6 @@
 # Export data from CSV, JSON to ready-to-load format in csv
 
-
+## Project 1 
 ## Project Goal
 1. Read CSV and JSON file types.
 2. Extract data from bank and market cap data from the JSON file bank_market_cap.json.
