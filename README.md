@@ -1,1 +1,3 @@
 # ETL-pipeline-with-Python
+
+Project 1 is a Python ETL pipeline that ingests multiple flat files, reads data from a network share, and loads it into a Postgres database. The goal of the project is to make reference data available for analytics by adding more detailed information to an existing accounts table in the database. The pipeline reads data from excel sheets and saves it into a table in the data warehouse, providing the ability to expand a particular category to see what makes up revenue or operating expenses. This allows for easy overwriting of data in excel sheets while maintaining a reliable source of reference data in the data warehouse.
