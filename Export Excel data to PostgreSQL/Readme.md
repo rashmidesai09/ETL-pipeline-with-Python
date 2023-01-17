@@ -1,4 +1,4 @@
-# Python ETL Pipeline to load data in excel sheet into database (PostgreSQL)
+# Project 1 :Python ETL Pipeline to load data in excel sheet into database (PostgreSQL)
 
 ## Project Goal :
 1. Ingest multiple flat files
